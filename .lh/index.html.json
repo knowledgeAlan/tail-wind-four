@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 8,
+            "activePatchIndex": 10,
             "patches": [
                 {
                     "date": 1713779734456,
@@ -40,6 +40,14 @@
                 {
                     "date": 1713780038279,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -58,9 +58,9 @@\n             </header>\n     \n             <div>\n                 <h4 class=\"font-bold pab-2 mt-12 border-b border-gray-200\">Latest Recipes</h4>\n-                <div>\n+                <div class=\"mt-8\">\n                     <div>\n                         <img src=\"img/stew.jpg\" alt=\"stew\">\n                         <div>\n                             <span>5 bean Chili Stew</span>\n"
+                },
+                {
+                    "date": 1713853052016,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -68,9 +68,9 @@\n                         </div>\n                     </div>\n                 </div>\n     \n-             <h4 class=\"font-bold\">Most popular</h4>\n+             <h4 class=\"font-bold pb-2 mt-12 border-b border-gray-200\">Most popular</h4>\n     \n                 <div>\n         \n                 </div>\n"
+                },
+                {
+                    "date": 1713853086244,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -74,9 +74,9 @@\n                 <div>\n         \n                 </div>\n              </div>\n-            <div>\n+            <div class=\"mt-12\">\n                 <div>Load more</div>\n             </div>\n         </main>\n         \n"
                 }
             ],
             "date": 1713779734456,
